@@ -1,16 +1,17 @@
-### Hi there 👋
+#### Hellow!
 
-<!--
-**SillyCatDev/SillyCatDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I like trains
+> 
+> I'm a C# dev
+> 
+> But I code Python, Boilerplate Java, and C / C++ too!
+> 
+> I use Boilerplate.exe (Java lol) for Minecraft mods
+> 
+> I use C / C++ for my horrible personal app projects
+> 
+> I use C# for like 50% of my public github repositories
+>
+> I'm running out of things to say so here's a picture of a train
+> 
+![image](https://user-images.githubusercontent.com/100283589/175079413-415cd1d7-b73a-47d3-af96-3650a8dd7e2d.png)
