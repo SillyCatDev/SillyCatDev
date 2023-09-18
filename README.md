@@ -3,14 +3,7 @@
 
 - 🌱 I’m currently learning **How to get a real life**
 
-- 📫 How to reach me **bashpenrose@outlook.com**
-
-<h3 align="left">Connect with me: </h3>
-
-- **_commanderjeb** on discord
-  
-- **j.abhinav1515@outlook.com**
-
+- 📫 How to reach me: Email == **bashpenrose@outlook.com**, Discord == **_commanderjeb**
 <p align="left">
 </p>
 
