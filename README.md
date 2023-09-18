@@ -1,11 +1,13 @@
 <h1 align="center">Hello, I'm Abhinav</h1>
 <h3 align="center">A very bad developer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **How to get a real life**
 
 - 📫 How to reach me **bashpenrose@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
+- **_commanderjeb** on discord
+- **j.abhinav1515@outlook.com**
 <p align="left">
 </p>
 
