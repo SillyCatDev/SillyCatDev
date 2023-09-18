@@ -6,10 +6,11 @@
 - 📫 How to reach me **bashpenrose@outlook.com**
 
 <h3 align="left">Connect with me: </h3>
-<p  align="left">
+
 - **_commanderjeb** on discord
+  
 - **j.abhinav1515@outlook.com**
-</p>
+
 <p align="left">
 </p>
 
