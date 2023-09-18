@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning **How to get a real life**
 
 - 📫 How to reach me:
-- Email: **bashpenrose@outlook.com**
-- Discord == **_commanderjeb**
-- 
+- ###Email: **bashpenrose@outlook.com**
+- ###Discord == **_commanderjeb**
+
 <p align="left">
 </p>
 
